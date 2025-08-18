@@ -13,10 +13,10 @@
         <mxCell id="fTzPdwD0FqYq8DdTM3jS-3" value="Telegram server" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="80" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fTzPdwD0FqYq8DdTM3jS-4" value="Backend&lt;div&gt;Fast-API&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fTzPdwD0FqYq8DdTM3jS-4" value="Backend&lt;div&gt;Fast-API&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="80" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fTzPdwD0FqYq8DdTM3jS-9" value="LLM" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fTzPdwD0FqYq8DdTM3jS-9" value="LLM&lt;div&gt;GigaChat&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="512" y="200" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="fTzPdwD0FqYq8DdTM3jS-17" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.4;exitY=0.1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="fTzPdwD0FqYq8DdTM3jS-9" target="fTzPdwD0FqYq8DdTM3jS-4">
